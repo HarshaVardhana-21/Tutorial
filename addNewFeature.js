@@ -21,4 +21,4 @@ what the hell is this?
 Does it solve the merge conflict?
 
 Yes I can...
-can you?
+Hey you why did you raise a conflict?
