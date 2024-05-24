@@ -16,3 +16,11 @@ function factorial(n){
   return fac
 }
 console.log(factorial(6));
+
+what the hell is this?
+Does it solve the merge conflict?
+
+Yes I can...
+Hey you why did you raise a conflict?
+
+hello
